@@ -1,0 +1,41 @@
+{
+    "status": true,
+    "message": "success",
+    "data": [
+        {
+            "isDefault": true,
+            "weaponType": "Melee",
+            "name": "Stick"
+        },
+        {
+            "isDefault": false,
+            "weaponType": "Shooting",
+            "name": "Pistol"
+        },
+        {
+            "isDefault": false,
+            "weaponType": "Shooting",
+            "name": "Rifle"
+        },
+        {
+            "isDefault": false,
+            "weaponType": "Shooting",
+            "name": "Machine Gun"
+        },
+        {
+            "isDefault": false,
+            "weaponType": "Shooting",
+            "name": "Sniper"
+        },
+        {
+            "isDefault": false,
+            "weaponType": "Throwable",
+            "name": "Smoke Grenade"
+        },
+        {
+            "isDefault": false,
+            "weaponType": "Throwable",
+            "name": "M67 Grenade"
+        }
+    ]
+}

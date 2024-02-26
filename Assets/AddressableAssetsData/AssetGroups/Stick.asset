@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Stick
+  m_EditorClassIdentifier: 
+  m_GroupName: Stick
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 7bba671948f8be04eae6f79f7565827c
+  m_SerializeEntries:
+  - m_GUID: 4023aa11e92ca1e4e8fb43a4dbf7f56e
+    m_Address: Stick
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Weapon
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 50cc63891c91faa4689319c510570727, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3c642eff84008454ba286f97cb3d58ca, type: 2}
+    - {fileID: 11400000, guid: b7960560ae2f13f4e9f695a9f994a4cb, type: 2}
